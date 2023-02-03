@@ -61,6 +61,11 @@ Move all the obtained npy files to 7a_7b_reproduce/saved_npy folder.
 Run the 7a_7b_reproduce/Visualize_Plots.ipynb 
 ```
 
+## Visualizing 7a and 7b
+
+```
+Run the 7a_7b_reproduce/Visualize_Plots.ipynb 
+```
 
 
 
