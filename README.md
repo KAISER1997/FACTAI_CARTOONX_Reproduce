@@ -61,10 +61,9 @@ Move all the obtained npy files to 7a_7b_reproduce/saved_npy folder.
 Run the 7a_7b_reproduce/Visualize_Plots.ipynb 
 ```
 
-![7a](figs/7a.png)
-![7b](figs/7b.png)
 
-
+<img src="figs/7a.png" alt="A cute cat" width="300" height="300">
+<img src="figs/7b.png" alt="A cute cat" width="300" height="300">
 
 ## Visualizing 7a and 7b
 
