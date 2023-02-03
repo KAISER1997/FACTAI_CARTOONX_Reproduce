@@ -61,6 +61,10 @@ Move all the obtained npy files to 7a_7b_reproduce/saved_npy folder.
 Run the 7a_7b_reproduce/Visualize_Plots.ipynb 
 ```
 
+## Running the script for the model extension experiment
 
+For plotting the results of the model extension experiment, run CartoonX_model_ext/project/Plot_Model.ipynb notebook.
+
+For plotting the CartoonX explanations for different models on a sample image, run CartoonX_model_ext/demo.ipynb notebook.
 
 
