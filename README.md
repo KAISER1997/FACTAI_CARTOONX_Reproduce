@@ -39,3 +39,28 @@ python project/figure_generator_main_fig568.py --imgdir=examples/example_images 
 ```
 python project/obfuscation_scaling_experiment.py --imgdir=examples/example_images --logdir=results/obfuscation_scaling_experiment --resize_images
 ```
+
+## Running CartoonX on Semantic Segmentation
+
+```
+Run the Semantic_Segmentation.ipynb inside Semantic_Segment
+```
+
+## Running CartoonX on Object Detection
+
+```
+Run the Yolo.ipynb inside YOLO/yolov5-gradcam/
+```
+
+
+## Running script for figure 7a and 7b
+
+```
+Run the 7a_7b_reproduce/Plot_all_7a.ipynb and 7a_7b_reproduce/Plot_all_7b.ipynb respectively
+```
+
+## Visualize plot 7a , 7b and accuracy
+
+```
+Run the 7a_7b_reproduce/Visualize_Plots.ipynb inside 
+```
