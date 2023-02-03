@@ -21,6 +21,8 @@ python project/figure_generator_main_fig568.py --imgdir=examples/example_images 
 python project/7c_experiment.py --imgdir=examples/example_images --logdir=results/figure_7 --resize_images
 ```
 
+<img src="figs/qualitative_ims/fig7c.png" width="400" height="300">
+
 
 ## Running The script for figure 8a, 8b, 8c, and 8d
 
@@ -34,11 +36,19 @@ python project/figure_generator_main_fig568.py --imgdir=examples/example_images 
 python project/figure_generator_main_fig568.py --imgdir=examples/example_images --logdir=results/figure_8 --resize_images --figure_name=8d
 ```
 
+<img src="figs/qualitative_ims/8a.png" width="400" height="150">
+<img src="figs/qualitative_ims/8b.JPEG" width="400" height="100">
+<img src="figs/qualitative_ims/8c.JPEG" width="400" height="100">
+<img src="figs/qualitative_ims/8d.JPEG" width="400" height="100">
+
+
 ## Running the script for the obfuscation experiment
 
 ```
 python project/obfuscation_scaling_experiment.py --imgdir=examples/example_images --logdir=results/obfuscation_scaling_experiment --resize_images
 ```
+
+<img src="figs/qualitative_ims/obfuscation_examples/goldfish.JPEG" width="400" height="100">
 
 ## Running CartoonX on Semantic Segmentation
 
@@ -62,8 +72,8 @@ Run the 7a_7b_reproduce/Visualize_Plots.ipynb
 ```
 
 
-<img src="figs/7a.png" alt="A cute cat" width="300" height="300">
-<img src="figs/7b.png" alt="A cute cat" width="300" height="300">
+<img src="figs/7a.png" width="400" height="300">
+<img src="figs/7b.png" width="400" height="300">
 
 ## Visualizing 7a and 7b
 
@@ -74,6 +84,9 @@ Run the 7a_7b_reproduce/Visualize_Plots.ipynb
 
 For plotting the results of the model extension experiment, run CartoonX_model_ext/project/Plot_Model.ipynb notebook.
 
+<img src="figs/rate_distortion_archs.png" width="400" height="300">
+
 For plotting the CartoonX explanations for different models on a sample image, run CartoonX_model_ext/demo.ipynb notebook.
 
+<img src="figs/CartoonX_models_basketball.jpeg" width="400" height="300">
 
