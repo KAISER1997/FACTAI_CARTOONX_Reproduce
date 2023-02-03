@@ -53,14 +53,14 @@ Run the Yolo.ipynb inside YOLO/yolov5-gradcam/
 ```
 
 
-## Running script for figure 7a and 7b
+## Generating figure 7a and 7b
 
 ```
 Run the 7a_7b_reproduce/Plot_all_7a.ipynb and 7a_7b_reproduce/Plot_all_7b.ipynb respectively
+Move all the obtained npy files to 7a_7b_reproduce/saved_npy folder.
+Run the 7a_7b_reproduce/Visualize_Plots.ipynb 
 ```
 
-## Visualize plot 7a , 7b and accuracy
 
-```
-Run the 7a_7b_reproduce/Visualize_Plots.ipynb inside 
-```
+
+
