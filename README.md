@@ -56,6 +56,31 @@ python project/obfuscation_scaling_experiment.py --imgdir=examples/example_image
 Run the Semantic_Segmentation.ipynb inside Semantic_Segment
 ```
 
+<table>
+  <tr>
+    <td>
+      <img src="figs/Segmentation/Cow_Example/cow.jpg" width="150" height="150">
+    </td>
+    <td>
+      <img src="figs/Segmentation/Cow_Example/cow_cow_seg.jpg" width="150" height="150">
+    </td>
+    <td>
+      <img src="figs/Segmentation/Cow_Example/cow_car_seg.jpg" width="150" height="150">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="figs/Segmentation/Cow_Example/cowgray.jpg" width="150" height="150">
+    </td>
+    <td>
+      <img src="figs/Segmentation/Cow_Example/cow_focus.png" width="150" height="150">
+    </td>
+    <td>
+      <img src="figs/Segmentation/Cow_Example/car_focus.png" width="150" height="150">
+    </td>
+  </tr>
+</table>
+
 ## Running CartoonX on Object Detection
 
 ```
